@@ -1,0 +1,2192 @@
+.mediaViewInfo {
+	--web-view-name: appointments list;
+	--web-view-id: appointments_list;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
+	--web-show-scale-controls: true;
+	--web-actual-size-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-add-image-compare: true;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: appointments_list;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+	outline: 1px dashed red;
+}
+.appointments_list_Class {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	width: 375px;
+	height: 1294px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: appointments list;
+	--web-view-id: appointments_list;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
+	--web-show-scale-controls: true;
+	--web-actual-size-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-add-image-compare: true;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+	outline: 1px dashed red;
+}
+@keyframes  {
+
+
+}
+.Rectangle_2975 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 557px;
+	left: 0px;
+	top: 693px;
+}
+.Rectangle_2898 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 340px;
+	left: 0px;
+	top: 0px;
+}
+.Group_21123_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 170px;
+	overflow: visible;
+}
+.______________________29374293_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(2,54,61,1);
+}
+.Group_21383_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 278px;
+	overflow: visible;
+}
+.______________________29374293_p_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(2,54,61,1);
+}
+.Group_21404_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 710px;
+	overflow: visible;
+}
+.______________________29374293_r_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(190,190,190,1);
+}
+.Group_21392_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 494px;
+	overflow: visible;
+}
+.______________________29374293_t_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(2,54,61,1);
+}
+.Group_21398_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 926px;
+	overflow: visible;
+}
+.______________________29374293_v_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(190,190,190,1);
+}
+.Group_21410_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 1142px;
+	overflow: visible;
+}
+.______________________29374293_x_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(190,190,190,1);
+}
+.Group_21386_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 386px;
+	overflow: visible;
+}
+.______________________29374293_z_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(2,54,61,1);
+}
+.Group_21401_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 818px;
+	overflow: visible;
+}
+.______________________29374293__Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(190,190,190,1);
+}
+.Group_21387_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 602px;
+	overflow: visible;
+}
+.______________________29374293_ba_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(2,54,61,1);
+}
+.Group_21393_Class {
+	position: absolute;
+	width: 266px;
+	height: 24px;
+	left: 85px;
+	top: 1034px;
+	overflow: visible;
+}
+.______________________29374293_bb_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 267px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(190,190,190,1);
+}
+.Line_205 {
+	overflow: visible;
+	position: absolute;
+	width: 322px;
+	height: 1px;
+	left: 29.5px;
+	top: 260.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_206 {
+	overflow: visible;
+	position: absolute;
+	width: 322px;
+	height: 1px;
+	left: 29.5px;
+	top: 368.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_213 {
+	overflow: visible;
+	position: absolute;
+	width: 322px;
+	height: 1px;
+	left: 29.5px;
+	top: 800.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_209 {
+	overflow: visible;
+	position: absolute;
+	width: 322px;
+	height: 1px;
+	left: 29.5px;
+	top: 584.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_211 {
+	overflow: visible;
+	position: absolute;
+	width: 322px;
+	height: 1px;
+	left: 29.5px;
+	top: 1016.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_207 {
+	overflow: visible;
+	position: absolute;
+	width: 322px;
+	height: 1px;
+	left: 29.5px;
+	top: 476.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_212 {
+	overflow: visible;
+	position: absolute;
+	width: 322px;
+	height: 1px;
+	left: 29.5px;
+	top: 908.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_210 {
+	overflow: visible;
+	position: absolute;
+	width: 322px;
+	height: 1px;
+	left: 29.5px;
+	top: 1124.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_21126_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 30px;
+	top: 188px;
+	overflow: visible;
+}
+.Rectangle_2974 {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+.event_Class {
+	position: absolute;
+	width: 15.676px;
+	height: 15.676px;
+	left: 11px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_5223 {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 11.104px;
+	left: 0px;
+	top: 1.306px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5224 {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 0.98px;
+	left: 0px;
+	top: 3.919px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5225 {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 2.613px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5226 {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 9.471px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5227 {
+	overflow: visible;
+	position: absolute;
+	width: 8.491px;
+	height: 8.491px;
+	left: 7.185px;
+	top: 7.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5228 {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 4.572px;
+	left: 10.94px;
+	top: 9.144px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5229 {
+	overflow: visible;
+	position: absolute;
+	width: 4.572px;
+	height: 0.98px;
+	left: 9.144px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_21381_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 30px;
+	top: 296px;
+	overflow: visible;
+}
+.Rectangle_2974_bp {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+.event_bq_Class {
+	position: absolute;
+	width: 15.676px;
+	height: 15.676px;
+	left: 11px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_5223_br {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 11.104px;
+	left: 0px;
+	top: 1.306px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5224_bs {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 0.98px;
+	left: 0px;
+	top: 3.919px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5225_bt {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 2.613px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5226_bu {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 9.471px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5227_bv {
+	overflow: visible;
+	position: absolute;
+	width: 8.491px;
+	height: 8.491px;
+	left: 7.185px;
+	top: 7.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5228_bw {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 4.572px;
+	left: 10.94px;
+	top: 9.144px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5229_bx {
+	overflow: visible;
+	position: absolute;
+	width: 4.572px;
+	height: 0.98px;
+	left: 9.144px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_21390_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 30px;
+	top: 512px;
+	overflow: visible;
+}
+.Rectangle_2974_bz {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+.event_b_Class {
+	position: absolute;
+	width: 15.676px;
+	height: 15.676px;
+	left: 11px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_5223_b {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 11.104px;
+	left: 0px;
+	top: 1.306px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5224_b {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 0.98px;
+	left: 0px;
+	top: 3.919px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5225_b {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 2.613px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5226_b {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 9.471px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5227_b {
+	overflow: visible;
+	position: absolute;
+	width: 8.491px;
+	height: 8.491px;
+	left: 7.185px;
+	top: 7.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5228_b {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 4.572px;
+	left: 10.94px;
+	top: 9.144px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5229_b {
+	overflow: visible;
+	position: absolute;
+	width: 4.572px;
+	height: 0.98px;
+	left: 9.144px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_21384_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 30px;
+	top: 404px;
+	overflow: visible;
+}
+.Rectangle_2974_b {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+.event_ca_Class {
+	position: absolute;
+	width: 15.676px;
+	height: 15.676px;
+	left: 11px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_5223_cb {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 11.104px;
+	left: 0px;
+	top: 1.306px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5224_cc {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 0.98px;
+	left: 0px;
+	top: 3.919px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5225_cd {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 2.613px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5226_ce {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 9.471px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5227_cf {
+	overflow: visible;
+	position: absolute;
+	width: 8.491px;
+	height: 8.491px;
+	left: 7.185px;
+	top: 7.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5228_cg {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 4.572px;
+	left: 10.94px;
+	top: 9.144px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5229_ch {
+	overflow: visible;
+	position: absolute;
+	width: 4.572px;
+	height: 0.98px;
+	left: 9.144px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Group_21388_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 30px;
+	top: 620px;
+	overflow: visible;
+}
+.Rectangle_2974_cj {
+	position: absolute;
+	overflow: visible;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+.event_ck_Class {
+	position: absolute;
+	width: 15.676px;
+	height: 15.676px;
+	left: 11px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_5223_cl {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 11.104px;
+	left: 0px;
+	top: 1.306px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5224_cm {
+	overflow: visible;
+	position: absolute;
+	width: 13.063px;
+	height: 0.98px;
+	left: 0px;
+	top: 3.919px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5225_cn {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 2.613px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5226_co {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 3.592px;
+	left: 9.471px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5227_cp {
+	overflow: visible;
+	position: absolute;
+	width: 8.491px;
+	height: 8.491px;
+	left: 7.185px;
+	top: 7.185px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5228_cq {
+	overflow: visible;
+	position: absolute;
+	width: 0.98px;
+	height: 4.572px;
+	left: 10.94px;
+	top: 9.144px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5229_cr {
+	overflow: visible;
+	position: absolute;
+	width: 4.572px;
+	height: 0.98px;
+	left: 9.144px;
+	top: 10.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+._________________________Class {
+	position: absolute;
+	left: 224px;
+	top: 222px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(2,54,61,1);
+}
+._________________________ct_Class {
+	position: absolute;
+	left: 224px;
+	top: 330px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(2,54,61,1);
+}
+._________________________cu_Class {
+	position: absolute;
+	left: 224px;
+	top: 762px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+._________________________cv_Class {
+	position: absolute;
+	left: 224px;
+	top: 546px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(2,54,61,1);
+}
+._________________________cw_Class {
+	position: absolute;
+	left: 224px;
+	top: 978px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+._________________________cx_Class {
+	position: absolute;
+	left: 224px;
+	top: 1194px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+._________________________cy_Class {
+	position: absolute;
+	left: 224px;
+	top: 438px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(2,54,61,1);
+}
+._________________________cz_Class {
+	position: absolute;
+	left: 224px;
+	top: 870px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+._________________________c_Class {
+	position: absolute;
+	left: 224px;
+	top: 654px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(2,54,61,1);
+}
+._________________________da_Class {
+	position: absolute;
+	left: 224px;
+	top: 1086px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.Group_21127_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 201px;
+	overflow: visible;
+}
+.Group_21380_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID1441_07_12_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.__Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.______Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID11_37___Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.Group_21382_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 309px;
+	overflow: visible;
+}
+.Group_21380_db_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_dc {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_dd_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID1441_07_12_de_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.__df_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.______dg_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID11_37___dh_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.Group_21403_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 741px;
+	overflow: visible;
+}
+.Group_21380_dj_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_dk {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_dl_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID1441_07_12_dm_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.__dn_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.______do_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID11_37___dp_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.Group_21391_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 525px;
+	overflow: visible;
+}
+.Group_21380_dr_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_ds {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_dt_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID1441_07_12_du_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.__dv_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.______dw_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID11_37___dx_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.Group_21397_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 957px;
+	overflow: visible;
+}
+.Group_21380_dz_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_d {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_d_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID1441_07_12_d_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.__d_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.______d_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID11_37___d_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.Group_21409_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 1173px;
+	overflow: visible;
+}
+.Group_21380_d_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_ea {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_ea_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID1441_07_12_ea_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.__eb_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.______ec_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID11_37___ed_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.Group_21385_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 417px;
+	overflow: visible;
+}
+.Group_21380_ef_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_eg {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_eh_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID1441_07_12_ei_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.__ej_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.______ek_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID11_37___el_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.Group_21400_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 849px;
+	overflow: visible;
+}
+.Group_21380_en_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_eo {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_ep_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID1441_07_12_eq_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.__er_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.______es_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID11_37___et_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.Group_21389_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 633px;
+	overflow: visible;
+}
+.Group_21380_ev_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_ew {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_ex_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID1441_07_12_ey_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.__ez_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.______e_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.ID11_37___e_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(166,184,187,1);
+}
+.Group_21395_Class {
+	position: absolute;
+	width: 219px;
+	height: 16px;
+	left: 133px;
+	top: 1065px;
+	overflow: visible;
+}
+.Group_21380_e_Class {
+	opacity: 0.7;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 207px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_5206_e {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 12px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ID2020_03_20_e_Class {
+	position: absolute;
+	left: 108px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID1441_07_12_e_Class {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.__e_Class {
+	position: absolute;
+	left: 102px;
+	top: 0px;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.______fa_Class {
+	position: absolute;
+	left: 176px;
+	top: 0px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.ID11_37___fa_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(190,190,190,1);
+}
+.Rectangle_2899 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 138px;
+	left: 0px;
+	top: 0px;
+}
+.Group_21024_Class {
+	position: absolute;
+	width: 12.049px;
+	height: 12px;
+	left: 338.951px;
+	top: 79px;
+	overflow: visible;
+}
+.Line_74 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 2px;
+	left: 0px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_5145 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 6.049px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,3.0244,2.9756) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.________Class {
+	position: absolute;
+	left: 201px;
+	top: 59px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	line-height: 191px;
+	margin-top: -77.5px;
+	text-align: right;
+	font-family: Almarai;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(2,54,61,1);
+}
+.Group_21040_Class {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 30px;
+	top: 65px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: view;
+	--web-action-target: appointments_search;
+	cursor: pointer;
+}
+.Rectangle_2974_fg {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.Group_20641_Class {
+	transform: translate(0px, 0px) matrix(1,0,0,1,16.727,15.4413) rotate(-45deg);
+	transform-origin: center;
+	position: absolute;
+	width: 15.305px;
+	height: 20.278px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_108 {
+	position: absolute;
+	overflow: visible;
+	width: 21.644px;
+	height: 21.644px;
+	left: 0px;
+	top: 0px;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 5.202px;
+	height: 5.202px;
+	left: 15.962px;
+	top: 15.962px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.najez_Class {
+	position: absolute;
+	width: 376px;
+	height: 812px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_20776_Class {
+	position: absolute;
+	width: 376px;
+	height: 812px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Display_Shape_Class {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+.Display_Shape_fn_Class {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Status_Bar_Class {
+	position: absolute;
+	width: 375px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Frame_Class {
+	opacity: 0.001;
+}
+.Frame {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+}
+.Status_Bar_fs_Class {
+	position: absolute;
+	width: 340px;
+	height: 18px;
+	left: 21px;
+	top: 13px;
+	overflow: visible;
+}
+.Battery_Class {
+	position: absolute;
+	width: 24.328px;
+	height: 11.333px;
+	left: 315.672px;
+	top: 3.333px;
+	overflow: visible;
+}
+.Border_Class {
+	opacity: 0.35;
+}
+.Border {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 11.333px;
+	left: 0px;
+	top: 0px;
+}
+.Cap_Class {
+	opacity: 0.4;
+}
+.Cap {
+	overflow: visible;
+	position: absolute;
+	width: 1.328px;
+	height: 4px;
+	left: 23px;
+	top: 3.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Capacity {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 7.333px;
+	left: 2px;
+	top: 2px;
+}
+.Wifi {
+	overflow: visible;
+	position: absolute;
+	width: 15.333px;
+	height: 11px;
+	left: 295.339px;
+	top: 3.331px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Cellular_Connection {
+	overflow: visible;
+	position: absolute;
+	width: 17px;
+	height: 10.667px;
+	left: 273.339px;
+	top: 3.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Time_Style_Class {
+	position: absolute;
+	width: 54px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Time_Class {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 55px;
+	height: 18px;
+	text-align: center;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.2px;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 5px;
+	left: 121px;
+	top: 798px;
+}
+.appointments_list_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 375px;
+	height: 1294px;
+	left: 0;
+	top: 0;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
